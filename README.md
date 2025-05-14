@@ -1,6 +1,6 @@
 In this repository you will find IARU R1 VHF+ band plan available in easy format that you can you use to code your own library.
 
-You can download the bandplan directly [here](./bandplan.xls)
+You can download the bandplan directly [here](./bandplan.xls?raw=1)
 
 This repository is going to be updated after each bandplan change.
 

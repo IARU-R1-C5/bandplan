@@ -1,0 +1,3789 @@
+{
+  "DocumentType": "bandplan",
+  "Source": "IARU R1 C5 VHF HandBook V10_02 as of March 2024",
+  "url": "https://github.com/IARU-R1-C5/bandplan/bandplan.json",
+  "Document": {
+    "241000000000-250000000000": {
+      "ITU": "EHF",
+      "ADIF": "1mm",
+      "Pband": "248 GHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "248001000000-250000000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "248000000000-248001000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "241000000000-248000000000": {
+            "Description": "not preferred fo usage",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        }
+      ]
+    },
+    "134000000000-141000000000": {
+      "ITU": "EHF",
+      "ADIF": "2mm",
+      "Pband": "144 GHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "136000000000-141000000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "134930000000-136000000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "134928000000-134930000000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "134930000000-134930000000": {
+            "Description": "Narrow band center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "134000000000-134928000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        }
+      ]
+    },
+    "122250000000-123000000000": {
+      "ITU": "EHF",
+      "ADIF": "2.5mm",
+      "Pband": "120 GHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "122251000000-123000000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "122250000000-122251000000": {
+            "Description": "Narrow band modes",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        }
+      ]
+    },
+    "75500000000-81500000000": {
+      "ITU": "EHF",
+      "ADIF": "4mm",
+      "Pband": "76 GHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "78000000000-81500000000": {
+            "Description": "not preferred fo usage",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "77501000000-78000000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "77500000000-77501000000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "77500200000-77500200000": {
+            "Description": "Narrow band center of activity (not Preferred)",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "76000000000-77500000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "76032200000-76032200000": {
+            "Description": "Narrow band center of activity (not Preferred)",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "75500000000-76000000000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "75976200000-75976200000": {
+            "Description": "Narrow band center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        }
+      ]
+    },
+    "47000000000-47200000000": {
+      "ITU": "EHF",
+      "ADIF": "6mm",
+      "Pband": "47 GHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "47090000000-47200000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "47088000000-47090000000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "47088200000-47088200000": {
+            "Description": "Narrow band center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "47000000000-47088000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        }
+      ]
+    },
+    "24000000000-24250000000": {
+      "ITU": "SHF",
+      "ADIF": "1.25cm",
+      "Pband": "24 GHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "24050000000-24250000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "24049000000-24050000000": {
+            "Description": "Narrow band ",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "24048800000-24048995000": {
+            "Description": "Beacons Local",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "24048750000-24048800000": {
+            "Description": "Beacons Local",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "24048200000-24048200000": {
+            "Description": "Narrow band center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "24048200000-24048200000": {
+            "Description": "Wideband band center of activity",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        }
+      ]
+    },
+    "10000000000-10500000000": {
+      "ITU": "SHF",
+      "ADIF": "3cm",
+      "Pband": "10 GHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "10450000000-10500000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "10450000000-10452000000": {
+            "Description": "Narrow band",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "10370000000-10450000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "10369000000-10370000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "10368800000-10368990000": {
+            "Description": "Beacons",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "10368750000-10368800000": {
+            "Description": "Beacons Local",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "10368200000-10368200000": {
+            "Description": "Narrow band center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "10368000000-10368800000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "10350000000-10368000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "10250000000-10350000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "10150000000-10250000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "10000000000-10150000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        }
+      ]
+    },
+    "5650000000-5850000000": {
+      "ITU": "SHF",
+      "ADIF": "6cm",
+      "Pband": "5,7 GHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "5830000000-5850000000": {
+            "Description": "Satellite Downlink",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "5762000000-5830000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "5761000000-5762000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "5760000000-5760800000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "5760800000-5760990000": {
+            "Description": "Beacons",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "5760750000-5760800000": {
+            "Description": "Beacons Local",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "5760200000-5760200000": {
+            "Description": "Narrow band center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "5700000000-5760000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "5670000000-5700000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "5668000000-5670000000": {
+            "Description": "Satellite Uplink",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "5668200000-5668200000": {
+            "Description": "Narrow band center of activity",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "5650000000-5668000000": {
+            "Description": "Satellite Uplink",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        }
+      ]
+    },
+    "3400000000-3475000000": {
+      "ITU": "SHF",
+      "ADIF": "9cm",
+      "Pband": "3,4 GHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "3410000000-3475000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "3402000000-3410000000": {
+            "Description": "Satellite Downlink",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "3401000000-3402000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "3400800000-3400995000": {
+            "Description": "Beacons",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "3400000000-3400800000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "3400750000-3400800000": {
+            "Description": "Beacons Local",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "3400100000-3400100000": {
+            "Description": "Center of activity and EME",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        }
+      ]
+    },
+    "2300000000-2450000000": {
+      "ITU": "UHF",
+      "ADIF": "13cm",
+      "Pband": "2,3 GHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "2400000000-2450000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2427000000-2443000000": {
+            "Description": "ATV",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2400800000-2401000000": {
+            "Description": "Coordinated Beacons",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2400500000-2400500000": {
+            "Description": "Center of activity",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2400000000-2402000000": {
+            "Description": "Narrow band (where 2320-2322 not available)",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2322000000-2400000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "2392000000-2400000000": {
+            "Description": "Digital communications",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2370000000-2392000000": {
+            "Description": "ATV",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2365000000-2370000000": {
+            "Description": "Repeaters",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2355000000-2365000000": {
+            "Description": "Digital communications",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2322000000-2355000000": {
+            "Description": "ATV",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2321000000-2322000000": {
+            "Description": "Voice Simplex and Repeaters",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2320800000-2321000000": {
+            "Description": "Beacons",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2320000000-2320800000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "2320750000-2320800000": {
+            "Description": "Beacons Local",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2320200000-2320200000": {
+            "Description": "SSB center of activity",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2320000000-2320025000": {
+            "Description": "EME",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2300000000-2320000000": {
+            "Description": "",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "2308000000-2310000000": {
+            "Description": "Narrow band in HB",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "2304000000-2306000000": {
+            "Description": "Narrow band (where 2320-2322 not available)",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        }
+      ]
+    },
+    "1240000000-1300000000": {
+      "ITU": "UHF",
+      "ADIF": "23cm",
+      "Pband": "1,3 GHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "1299750000-1300000000": {
+            "Description": "8 x 25kHz channels FM/DV",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "1299000000-1299750000": {
+            "Description": "5 x 120 kHz channels for DD",
+            "maxBandwidthHz": "150000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "1298000000-1299000000": {
+            "Description": "Mixed analog or digital in 25kHz channels",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "1297494000-1297981000": {
+            "Description": "",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1297900000-1297975000": {
+            "Description": "Simplex Internet Voice Gateways",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1297725000-1297725000": {
+            "Description": "Digital Voice Calling",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1297500000-1297500000": {
+            "Description": "FM center of activity",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296994000-1297481000": {
+            "Description": "FM/DV Repeater output",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296800000-1296994000": {
+            "Description": "Beacons",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296150000-1296800000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296750000-1296800000": {
+            "Description": "Beacons Local",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296741000-1296743000": {
+            "Description": "Experimental MGM 500Hz",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296600000-1296700000": {
+            "Description": "Linear transponder output",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296600000-1296600000": {
+            "Description": "Narrow band data center (MGM, RTTY, …)",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296500000-1296500000": {
+            "Description": "Image center (SSTV, FAX, …)",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296400000-1296600000": {
+            "Description": "Linear transponder input",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296200000-1296200000": {
+            "Description": "Narrow band center of activity",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296000000-1296150000": {
+            "Description": "",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1296000000-1296025000": {
+            "Description": "EME",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1291494000-1296000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "1293150000-1294350000": {
+            "Description": "Repeater input channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1290994000-1291481000": {
+            "Description": "Repeater input channels",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1272000000-1290994000": {
+            "Description": "ATV, Digital ATV",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1270000000-1272000000": {
+            "Description": "",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "1260000000-1270000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1243250000-1260000000": {
+            "Description": "ATV, Digital ATV",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1241000000-1243250000": {
+            "Description": "Repeater output channels",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "1240750000-1241000000": {
+            "Description": "reserved for future use",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1240500000-1240750000": {
+            "Description": "Beacons (reserved for future use)",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "1240000000-1240500000": {
+            "Description": "reserved for future use",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        }
+      ]
+    },
+    "430000000-440000000": {
+      "ITU": "UHF",
+      "ADIF": "70cm",
+      "Pband": "435 MHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "438000000-440000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "439800000-439975000": {
+            "Description": "Digital communication channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "438650000-439587500": {
+            "Description": "Repeater output channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "438550000-438625000": {
+            "Description": "Multi mode channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "438200000-438525000": {
+            "Description": "Digital communication repeater channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "438025000-438175000": {
+            "Description": "Digital communication",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "436000000-438000000": {
+            "Description": "Satellite and DATV",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "437000000-437000000": {
+            "Description": "DATV/Data center of activity",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "435000000-436000000": {
+            "Description": "Satellite",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "434600000-434987500": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "434600000-434975000": {
+            "Description": "Repeater input channels (UK)",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "434600000-434987500": {
+            "Description": "Repeater output channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "434000000-434587500": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "434450000-434575000": {
+            "Description": "Digital communication channels (by exception)",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "433600000-434000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "434000000-434000000": {
+            "Description": "Digital experiments (LORA)",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "433625000-433775000": {
+            "Description": "Digital communication channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "433400000-433587500": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "433400000-433575000": {
+            "Description": "Simplex Channels 25kHz spacing",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "433500000-433500000": {
+            "Description": "FM calling",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "433450000-433450000": {
+            "Description": "Digital Voice Calling",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "433400000-433400000": {
+            "Description": "SSTV (FM/AFSK)",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "433000000-433375000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "433000000-433375000": {
+            "Description": "Repeater output channels (UK)",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "433000000-433387500": {
+            "Description": "Repeater input channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "432500000-432975000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "432600000-432987500": {
+            "Description": "Repeater input channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "432500000-432500000": {
+            "Description": "APRS",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "432491000-432493000": {
+            "Description": "Experimental MGM 500Hz",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "432400000-442490000": {
+            "Description": "70cm Beacons",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "432000000-432400000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "432370000-432370000": {
+            "Description": "MS center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "432350000-432350000": {
+            "Description": "Microwave talkback center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "432200000-432200000": {
+            "Description": "SSB center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "432050000-432050000": {
+            "Description": "Telegraphy center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "430000000-431975000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "431625000-431975000": {
+            "Description": "Repeater output channels (F/PA/ON)",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "431050000-431987500": {
+            "Description": "Repeater input channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "430925000-431025000": {
+            "Description": "Multi mode channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "430600000-430925000": {
+            "Description": "Digital communication repeater channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "430400000-430575000": {
+            "Description": "Digital communications link channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "430025000-430375000": {
+            "Description": "Repeater input channels (F/PA/ON)",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        }
+      ]
+    },
+    "144000000-146000000": {
+      "ITU": "VHF",
+      "ADIF": "2m",
+      "Pband": "145 MHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "145806000-146000000": {
+            "Description": "Satellite",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "145794000-145806000": {
+            "Description": "Space communications",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "145575000-145793500": {
+            "Description": "Repeater output channels",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "145206000-145562500": {
+            "Description": "",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "145500000-145500000": {
+            "Description": "FM calling",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "145375000-145375000": {
+            "Description": "Digital Voice Calling",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "145337500-145337500": {
+            "Description": "FM Internet voice gateway",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "145287500-145287500": {
+            "Description": "FM Internet voice gateway",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "145237500-145237500": {
+            "Description": "FM Internet voice gateway",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "145194000-145206000": {
+            "Description": "Space communications",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144975000-145194000": {
+            "Description": "Repeater input channels",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144794000-144962500": {
+            "Description": "",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144862500-144862500": {
+            "Description": "DV Internet voice gateway",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144850000-144850000": {
+            "Description": "DV Internet voice gateway",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144837500-144837500": {
+            "Description": "DV Internet voice gateway",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144825000-144825000": {
+            "Description": "DV Internet voice gateway",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144812500-144812500": {
+            "Description": "DV Internet voice gateway",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144800000-144800000": {
+            "Description": "APRS",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144500000-144794000": {
+            "Description": "",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "144750000-144750000": {
+            "Description": "ATV talk back",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "144600000-144600000": {
+            "Description": "Data center (MGM, RTTY, …)",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "144500000-144500000": {
+            "Description": "Image center (SSTV, FAX, …)",
+            "maxBandwidthHz": "20000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "144491000-144493000": {
+            "Description": "Personal weak signal beacons, experimental MGM",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144400000-144490000": {
+            "Description": "Beacons",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144150000-144400000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144300000-144300000": {
+            "Description": "SSB center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144100000-144150000": {
+            "Description": "",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144110000-144160000": {
+            "Description": "CW and MGM EME",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144025000-144100000": {
+            "Description": "",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144100000-144100000": {
+            "Description": "Random MS",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144050000-144050000": {
+            "Description": "Center of activity",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "144000000-144025000": {
+            "Description": "Satellite Downlink",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "True",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        }
+      ]
+    },
+    "70000000-70500000": {
+      "ITU": "VHF",
+      "ADIF": "4m",
+      "Pband": "70 MHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "70294000-70500000": {
+            "Description": "",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70487500-70487500": {
+            "Description": "Digital communications",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70475000-70475000": {
+            "Description": "FM calling",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70462500-70462500": {
+            "Description": "FM calling",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70450000-70450000": {
+            "Description": "FM calling",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70325000-70325000": {
+            "Description": "Digital communications",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70312500-70312500": {
+            "Description": "Digital communications",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70250000-70294000": {
+            "Description": "",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "True",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70270000-70270000": {
+            "Description": "MGM center of activity",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "True",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70260000-70260000": {
+            "Description": "AM/FM calling",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "True",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70100000-70250000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70250000-70250000": {
+            "Description": "MS center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70200000-70200000": {
+            "Description": "Telegraphy/SSB center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70185000-70185000": {
+            "Description": "Cross band center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70090000-70100000": {
+            "Description": "Beacons Temporary and Personal",
+            "maxBandwidthHz": "1000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "70000000-70090000": {
+            "Description": "Beacons",
+            "maxBandwidthHz": "1000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        }
+      ]
+    },
+    "54000000-69900000": {
+      "ITU": "VHF",
+      "ADIF": "5m",
+      "Pband": "54 MHz",
+      "Status": "Planned",
+      "SubBand": []
+    },
+    "50000000-54000000": {
+      "ITU": "VHF",
+      "ADIF": "6m",
+      "Pband": "50 MHz",
+      "Status": "Official",
+      "SubBand": [
+        {
+          "52000000-54000000": {
+            "Description": "",
+            "maxBandwidthHz": "500000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "51400000-52000000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "51810000-51990000": {
+            "Description": "Repeater output channels",
+            "maxBandwidthHz": "",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "51410000-51590000": {
+            "Description": "Simplex",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "51510000-51510000": {
+            "Description": "FM calling",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "51200000-51400000": {
+            "Description": "",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "51210000-51390000": {
+            "Description": "Repeater input channels",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50900000-51200000": {
+            "Description": "Wideband digital experiments",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "50700000-50900000": {
+            "Description": "",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50710000-50890000": {
+            "Description": "Repeater output channels",
+            "maxBandwidthHz": "12000",
+            "Repeaters": "True",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "True",
+            "mode.AM": "False",
+            "mode.FM": "True",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50500000-50700000": {
+            "Description": "",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "50600000-50700000": {
+            "Description": "Digital communications",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "50630000-50630000": {
+            "Description": "DV calling",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "50540000-50580000": {
+            "Description": "Simplex Internet Voice Gateways",
+            "maxBandwidthHz": "",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "False",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "True"
+          }
+        },
+        {
+          "50400000-50500000": {
+            "Description": "Beacons",
+            "maxBandwidthHz": "1000",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50300000-50400000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50320000-50380000": {
+            "Description": "MS center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50310000-50320000": {
+            "Description": "EME center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50305000-50305000": {
+            "Description": "PSK center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "True",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50200000-50300000": {
+            "Description": "",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50285000-50285000": {
+            "Description": "Cross band usage",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50130000-50200000": {
+            "Description": "International section",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50150000-50150000": {
+            "Description": "International center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50100000-50130000": {
+            "Description": "Intercontinental section",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50110000-50110000": {
+            "Description": "Intercontinental center of activity",
+            "maxBandwidthHz": "2700",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "True",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50000000-50100000": {
+            "Description": "",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50090000-50090000": {
+            "Description": "Intercontinental center of activity",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50050000-50050000": {
+            "Description": "Future Intercontinental center of activity",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "False",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        },
+        {
+          "50000000-50030000": {
+            "Description": "Synchronized Beacon Project",
+            "maxBandwidthHz": "500",
+            "Repeaters": "False",
+            "Satellite": "False",
+            "Beacons": "True",
+            "mode.CW": "True",
+            "mode.DV": "False",
+            "mode.AM": "False",
+            "mode.FM": "False",
+            "mode.SSB": "False",
+            "mode.MGM": "False",
+            "mode.ALL": "False"
+          }
+        }
+      ]
+    },
+    "40000000-45000000": {
+      "ITU": "VHF",
+      "ADIF": "8m",
+      "Pband": "40 MHz",
+      "Status": "Planned",
+      "SubBand": []
+    }
+  }
+}

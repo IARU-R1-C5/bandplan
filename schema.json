@@ -1,0 +1,103 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "f_start_hz": {
+        "type": "number"
+      },
+      "f_stop_hz": {
+        "type": "number"
+      },
+      "itu": {
+        "type": "string"
+      },
+      "adif": {
+        "type": "string"
+      },
+      "status": {
+        "type": "string"
+      },
+      "sub_band": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "f_start_hz": {
+              "type": "number"
+            },
+            "f_stop_hz": {
+              "type": "number"
+            },
+            "name": {
+              "type": "string"
+            },
+            "max_bw_hz": {
+              "type": "number"
+            },
+            "use_repeaters": {
+              "type": "boolean"
+            },
+            "use_satellites": {
+              "type": "boolean"
+            },
+            "use_beacons": {
+              "type": "boolean"
+            },
+            "mode_cw": {
+              "type": "boolean"
+            },
+            "mode_dv": {
+              "type": "boolean"
+            },
+            "mode_am": {
+              "type": "boolean"
+            },
+            "mode_fm": {
+              "type": "boolean"
+            },
+            "mode_ssb": {
+              "type": "boolean"
+            },
+            "mode_mgm": {
+              "type": "boolean"
+            },
+            "mode_all": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "f_start_hz",
+            "f_stop_hz",
+            "name",
+            "max_bw_hz",
+            "use_repeaters",
+            "use_satellites",
+            "use_beacons",
+            "mode_cw",
+            "mode_dv",
+            "mode_am",
+            "mode_fm",
+            "mode_ssb",
+            "mode_mgm",
+            "mode_all"
+          ]
+        }
+      }
+    },
+    "required": [
+      "name",
+      "f_start_hz",
+      "f_stop_hz",
+      "itu",
+      "adif",
+      "status",
+      "sub_band"
+    ]
+  }
+}

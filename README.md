@@ -4,6 +4,6 @@ You can download the bandplan directly [here](https://github.com/IARU-R1-C5/band
 
 This repository is going to be updated after each bandplan change.
 
-Current band plan is based on official: [VHF HandBook V10_03](https://www.iaru-r1.org/wp-content/uploads/2024/11/VHF_Handbook_V10_03_final.pdf) as of February 2026.
+Current band plan is based on official: [VHF HandBook V10_03](https://www.iaru-r1.org/wp-content/uploads/2026/02/VHF_Handbook_V10_03_final.pdf) as of February 2026.
 
 Work in progress.

@@ -710,7 +710,7 @@
     ]
   },
   {
-    "name": "5,7 GHz",
+    "name": "5.7 GHz",
     "f_start_hz": 5650000000,
     "f_stop_hz": 5850000000,
     "itu": "SHF",
@@ -912,7 +912,7 @@
     ]
   },
   {
-    "name": "3,4 GHz",
+    "name": "3.4 GHz",
     "f_start_hz": 3400000000,
     "f_stop_hz": 3475000000,
     "itu": "SHF",
@@ -1034,7 +1034,7 @@
     ]
   },
   {
-    "name": "2,3 GHz",
+    "name": "2.3 GHz",
     "f_start_hz": 2300000000,
     "f_stop_hz": 2450000000,
     "itu": "UHF",
@@ -1364,7 +1364,7 @@
     ]
   },
   {
-    "name": "1,3 GHz",
+    "name": "1.3 GHz",
     "f_start_hz": 1240000000,
     "f_stop_hz": 1300000000,
     "itu": "UHF",
